@@ -4,8 +4,11 @@ Activity Classifier
 Model to classify 4 types of activities using X, Y and Z accelerations from mobile sensor
 Activities:
 Sitting
+
 Walking
+
 Jumping
+
 Jumping+Walking
 
 ![image](https://github.com/Christian74D/MatlabCourse2024Project/assets/112863270/46b52feb-8e4e-4529-8365-df94b59eb641)
